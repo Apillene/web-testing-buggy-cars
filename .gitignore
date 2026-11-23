@@ -4,16 +4,6 @@ desktop.ini
 .DS_Store
 *.swp
 
-# Node (если появятся вспомогательные скрипты)
-node_modules/
-npm-debug.log*
-
-# Playwright / Cypress (на будущее)
-test-results/
-playwright-report/
-cypress/videos/
-cypress/screenshots/
-
 # Локальные секреты и тестовые данные
 .env
 .env.*
